@@ -1,0 +1,10 @@
+{
+  "name": "ottersockets",
+  "version": "0.0.1",
+  "description": "Websockets communication layer for Otter",
+  "dependencies": {
+    "socket.io": "^1.4.5",
+    "socket.io-redis": "0.2.0",
+    "underscore": "^1.8.3"
+  }
+}
